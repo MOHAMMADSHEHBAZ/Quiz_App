@@ -1,0 +1,8 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
+    font-family:Arial, Helvetica, sans-serif;
+}
